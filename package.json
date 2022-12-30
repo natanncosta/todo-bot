@@ -1,0 +1,8 @@
+{
+  "name": "todo-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:NatanielCosta/todo-bot.git",
+  "author": "natan <nataniel08@protonmail.com>",
+  "license": "MIT"
+}
